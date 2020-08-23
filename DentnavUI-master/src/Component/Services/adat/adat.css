@@ -1,0 +1,17 @@
+.adat{
+    color:black;
+    margin-top: 150px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+@media only screen and (max-width: 414px) {
+    .adat{
+     margin-top: 80px ! important;
+     margin-right:10px !important;
+     margin-left: 5px !important;
+    }
+    .box{
+      margin-top: 0px !important;
+    }
+  }
